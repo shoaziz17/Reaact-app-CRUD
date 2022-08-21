@@ -1,0 +1,49 @@
+{
+  "games": [
+    {
+      "title": "CS:GO",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=606c88423f9e925043df3cc37575b664-5247581-images-thumbs&n=13",
+      "description": "Многопользовательская компьютерная игра, разработанная компаниями Valve и Hidden Path Entertainment. Выпуск игры для персональных компьютеров на операционных системах Windows и macOS, также игровых приставках Xbox 360 ",
+      "developer": "Valve",
+      "price": 12,
+      "release-date": "2222-05-25",
+      "id": 1
+    },
+    {
+      "title": "Mobile Legends",
+      "description": "Это многопользовательская командная видеоигра в жанре MOBA, разработанная Moonton для мобильных устройств.",
+      "release-date": "",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=fd300927ee9086d485ae05f1dfb9b827-6946760-images-thumbs&n=13",
+      "developer": "Montoon",
+      "price": 15,
+      "id": 2
+    },
+    {
+      "title": "FIFA 23",
+      "description": "30-я и последняя по счёту компьютерная игра из серии FIFA в жанре Спортивный симулятор футбольного симулятора, разработанная компаниями EA Vancouver под издательством Electronic Arts. На ПК, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S и Nintendo Switch",
+      "release-date": "",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=e3fe3d6c89d134b2666b10d60e194a9d-4231950-images-thumbs&n=13",
+      "developer": "EA SPORTS",
+      "price": 50,
+      "id": 3
+    },
+    {
+      "title": "Call of Duty: Warzone",
+      "description": "Мультиплатформенная free-to-play компьютерная игра в жанре многопользовательского шутера от первого лица и королевской битвы, разработанная компаниями Infinity Ward и Raven Software и изданная Activision 10 марта 2020 года для ПК, PlayStation 4",
+      "release-date": "2022-08-23",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=dc7b49d2db347260da3234272913bcf4-5888509-images-thumbs&n=13",
+      "developer": "Raven Software",
+      "price": 40,
+      "id": 4
+    },
+    {
+      "title": "The Last of Us: 2",
+      "description": "омпьютерная игра в жанре приключенческого боевика с элементами survival horror и стелс-экшена от третьего лица, разработанная компанией Naughty Dog и изданная Sony Interactive Entertainment в 2020 году для игровой приставки PlayStation 4.",
+      "release-date": "",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=8921be26597555d13e02e9c62e595497-3986418-images-thumbs&n=13",
+      "developer": "Naughty Dog",
+      "price": 30,
+      "id": 5
+    }
+  ]
+}
